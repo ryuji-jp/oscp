@@ -4,4 +4,5 @@
 - [その2](https://github.com/xsudoxx/OSCP/blob/main/README.md)
 
 ## レポート
-[サンプル](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+- [その1](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+- [その2](https://github.com/Syslifters/sysreptor)
