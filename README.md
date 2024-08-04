@@ -16,6 +16,8 @@
 - [HackTricks](https://book.hacktricks.xyz/)
 - [Free Password Hash Cracker](https://crackstation.net/)
 - [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#bash-tcp)
+- [URL Encoding Functions](https://www.w3schools.com/tags/ref_urlencode.asp)
+- [Reverse Shell Generator](https://www.revshells.com/)
 
 ## ブログ
 - [その1](https://www.leon-tec.co.jp/blog/11450/)
