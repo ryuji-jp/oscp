@@ -1,8 +1,8 @@
 # OSCP 対策
 ## チートシート
-- [その1](https://github.com/camercu/oscp-prep/blob/main/CHEATSHEET.md)
-- [その2](https://github.com/xsudoxx/OSCP/blob/main/README.md)
-- [その3](https://laysakura.notion.site/PEN-200-OSCP-Cheat-Sheet-46c32d0d33954262b1a2e825e03e7e33)
+- [メイン](https://github.com/camercu/oscp-prep/blob/main/CHEATSHEET.md)
+- [サブ](https://github.com/xsudoxx/OSCP/blob/main/README.md)
+- [スプレットシート用](https://laysakura.notion.site/PEN-200-OSCP-Cheat-Sheet-46c32d0d33954262b1a2e825e03e7e33)
 
 ## スプレットシート
 - [オリジナル](https://docs.google.com/spreadsheets/d/13g6RFbaS-5KJcETONOSSV7vNSh9OXCgbNak8WM2H1A0/edit?gid=1858408689#gid=1858408689)
