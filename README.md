@@ -2,6 +2,7 @@
 ## チートシート
 - ![その1](https://github.com/camercu/oscp-prep/blob/main/CHEATSHEET.md)
 - ![その2](https://github.com/xsudoxx/OSCP/blob/main/README.md)
+- ![その3](https://laysakura.notion.site/PEN-200-OSCP-Cheat-Sheet-46c32d0d33954262b1a2e825e03e7e33)
 
 ## レポート
 - ![その1](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
