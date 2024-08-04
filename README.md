@@ -6,6 +6,7 @@
 
 ## スプレットシート
 - ![その1](https://docs.google.com/spreadsheets/d/13g6RFbaS-5KJcETONOSSV7vNSh9OXCgbNak8WM2H1A0/edit?gid=1858408689#gid=1858408689)
+- ![その2](https://docs.google.com/spreadsheets/d/1jDu6jmv_8evaS4h8wUvpjlM4IePn_VOkSIXdRnOi3X0/edit?gid=1414956906#gid=1414956906)
 
 ## レポート
 - ![その1](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
