@@ -12,6 +12,11 @@
 - [その1](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 - [その2](https://github.com/Syslifters/sysreptor)
 
+## その他
+- [HackTricks](https://book.hacktricks.xyz/)
+- [Free Password Hash Cracker](https://crackstation.net/)
+- [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#bash-tcp)
+
 ## ブログ
 - [その1](https://www.leon-tec.co.jp/blog/11450/)
 - [その2](https://qiita.com/2MB/items/608e4b3a9ea89d0cbfad)
